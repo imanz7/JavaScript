@@ -28,6 +28,3 @@ function Stopwatch() {
         }
     });
 }
-
-// const sw = new Stopwatch();
-//sw.duration = 2;
